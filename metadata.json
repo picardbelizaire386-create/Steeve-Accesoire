@@ -1,0 +1,6 @@
+{
+  "name": "Steeve Accesoire — Plateforme E-Commerce",
+  "description": "Plateforme e-commerce professionnelle, moderne et complète avec gestion des stocks par taille/pointure, panier, commandes, suivi et tableau de bord administrateur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
